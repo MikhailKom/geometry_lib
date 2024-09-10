@@ -11,7 +11,4 @@ export class Triangle implements Shape {
     const s = this.getPerimeter() / 2;
     return roundToTenths(Math.sqrt(s * (s - this.a) * (s - this.b) * (s - this.c)));
   }
-  getName(): string {
-    return "Triangle";
-  }
 }

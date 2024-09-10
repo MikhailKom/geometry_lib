@@ -11,8 +11,4 @@ export class Rectangle implements Shape {
   getPerimeter(): number {
     return roundToTenths(2 * (this.width + this.height));
   }
-
-  getName(): string {
-    return "Rectangle";
-  }
 }

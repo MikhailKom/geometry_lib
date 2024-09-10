@@ -15,7 +15,4 @@ export class Circle implements Shape {
   getDiameter(): number {
     return roundToTenths(2 * this.radius);
   }
-  getName(): string {
-    return "Circle";
-  }
 }
