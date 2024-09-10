@@ -37,3 +37,5 @@ npx jest
 ```
 
 пройден успешно
+
+![result](<img/The test result is a rectangle.png>)
