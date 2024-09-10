@@ -30,10 +30,4 @@ export class Rectangle implements Shape {
   }
 }
 ```
-### Тест
-исользуем jest
-```bash
-npx jest
-```
-
-пройден успешно
+### Круг
