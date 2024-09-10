@@ -37,3 +37,4 @@ npx jest
 ```
 
 пройден успешно
+![alt text](<img/The test result is a rectangle.png>)
