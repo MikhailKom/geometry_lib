@@ -39,7 +39,7 @@ export class Rectangle implements Shape {
 
 ### Тест
 
-исользуем jest
+используем jest
 
 ```bash
 npx jest
